@@ -6,6 +6,6 @@ describe("tests for sum",() =>{
         expect(sum(2,2)).toBe(4)
     })
     test("add 2+5 equuals to 7",()=>{
-        expect(sum(2,5)).toBe(7)
+        expect(sum(2,6)).toBe(7)
     })
 })
